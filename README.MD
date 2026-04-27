@@ -6,7 +6,7 @@ El proyecto propone un asistente conversacional de BanCom que transforma la inte
 
 ## 2.Fuentes de inspiración
 
-### 2.1 Marco conceptual de product-market fit: identificación del problema, segmentación, evaluación competitiva y métricas de validación.
+### 2.1 Marco conceptual de product-market fit:### identificación del problema, segmentación, evaluación competitiva y métricas de validación.
 
 ### Componente	Definición ejecutiva	Hallazgo clave
 Identificación del problema	El problema central es la fricción en el onboarding de créditos: solicitudes incompletas, validaciones manuales, observaciones reiteradas y poca trazabilidad del expediente.	La intención del cliente no siempre se convierte en una solicitud lista para evaluación, lo que genera abandono, demoras y reprocesos.
