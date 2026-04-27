@@ -78,9 +78,9 @@ Transforma una solicitud de crédito en una experiencia conversacional simple, g
   - Experiencia coherente con una atención bancaria formal pero cercana.
   - Permite mantener continuidad con acciones persistentes como ver estado, subir documentos o hablar con un ejecutivo.
 
-**Dolor crítico:** expedientes incompletos y sin trazabilidad.
-**Trigger de adopción:** solicitud rápida, guiada y sin fricción.
-**Resultado esperado:** más conversión y menor reproceso.
+- **Dolor crítico:** expedientes incompletos y sin trazabilidad.
+- **Trigger de adopción:** solicitud rápida, guiada y sin fricción.
+- **Resultado esperado:** más conversión y menor reproceso.
 
 ## 4. Propósito principal del proyecto 
 
