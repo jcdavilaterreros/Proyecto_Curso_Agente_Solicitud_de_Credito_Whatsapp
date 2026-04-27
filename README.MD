@@ -67,7 +67,8 @@ El agente entrega guía paso a paso, listas de requisitos y documentos personali
 	- Confiable
 	- Orientado a la acción
 
-### **Propuesta de valor:** Transforma una solicitud de crédito en una experiencia conversacional simple, guiada y humana, reduciendo fricción, ordenando la captura de datos y documentos, y dando al usuario visibilidad del avance de su solicitud en todo momento.
+### Propuesta de valor: 
+Transforma una solicitud de crédito en una experiencia conversacional simple, guiada y humana, reduciendo fricción, ordenando la captura de datos y documentos, y dando al usuario visibilidad del avance de su solicitud en todo momento.
 
 ### Ventajas diferenciales:
   - Conversación natural y no tipo interrogatorio.
