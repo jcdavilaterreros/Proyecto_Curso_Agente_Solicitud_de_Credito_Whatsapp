@@ -20,10 +20,10 @@ Diferenciación esperada	El agente BanCom combina conversación guiada, checklis
 ### Problema
 El agente resuelve la fricción operativa en el onboarding de créditos: solicitudes que se retrasan, se abandonan o requieren reprocesos porque la documentación está incompleta, las validaciones son manuales y dispersas, y no existe una guía clara para el cliente ni para los ejecutivos. El objetivo es convertir la intención de solicitar un préstamo en un expediente listo para evaluación/decisión, con mínimo error y máxima trazabilidad.
 
-###Rol del agente
+### Rol del agente
 Su rol principal es ser un Asistente de Onboarding de créditos. Actúa como asistente porque guía al usuario paso a paso, resuelve dudas e indica qué información y documentos necesita; y como operador automático porque ejecuta validaciones, consulta sistemas internos/externos y prepara la precalificación o el expediente digital en casos de bajo riesgo.
 
-###Límites
+### Límites
 El agente no aprueba ni rechaza formalmente un crédito fuera de políticas, no modifica condiciones contractuales ni estados en Core, no promete aprobación garantizada, no omite controles de cumplimiento como KYC/AML y no brinda asesoría legal, tributaria o de inversión. Si no dispone de información suficiente, debe declararlo, pedir lo faltante y, si persiste la falta de datos críticos, derivar el caso a un ejecutivo o analista.
 
 En términos funcionales, el agente no debe:
