@@ -101,7 +101,7 @@ Está orientado a usuarios que desean iniciar o completar su solicitud de crédi
 • Para PYMES y convenios, la capacidad de operar con información parcial y derivar inteligentemente a humano es una ventaja relevante frente a experiencias excesivamente rígidas.
 • El uso de IA agrega valor donde más duele: completitud del expediente, calidad del dato, explicación del siguiente paso y productividad del ejecutivo.
 
-** ¿Qué podría aportar este agente de IA que otros no ofrecen? ** 
+**¿Qué podría aportar este agente de IA que otros no ofrecen?** 
 - Acompañamiento paso a paso orientado a reducir abandono y no solo a vender un crédito.
 - Corrección temprana del expediente con observaciones accionables antes de llegar al analista.
 - Experiencia híbrida: autoservicio cuando el caso es simple y escalamiento ordenado cuando el caso requiere intervención humana.
@@ -117,7 +117,7 @@ Está orientado a usuarios que desean iniciar o completar su solicitud de crédi
 - Gobierno y control: auditoría, trazabilidad, métricas, monitoreo/logging y controles de seguridad; además, ejecutivos en el loop para excepciones.
 - Memoria / conocimiento:  Vector DB + políticas + historial de casos, para consistencia y decisiones explicables.
 
-** 𝐌𝐕𝐏 𝐝𝐞 𝟑 𝐦𝐞𝐬𝐞𝐬 𝐲 𝐩𝐨𝐬𝐢𝐛𝐥𝐞 𝐞𝐯𝐨𝐥𝐮𝐜𝐢𝐨𝐧 **
+**𝐌𝐕𝐏 𝐝𝐞 𝟑 𝐦𝐞𝐬𝐞𝐬 𝐲 𝐩𝐨𝐬𝐢𝐛𝐥𝐞 𝐞𝐯𝐨𝐥𝐮𝐜𝐢ó𝐧**
 
 La propuesta del proyecto es un 𝐌𝐕𝐏 𝐝𝐞 𝟑 𝐦𝐞𝐬𝐞𝐬, con alcance acotado y métricas claras (tiempo de ciclo, abandono, retrabajo, conversión).
 
