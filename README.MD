@@ -6,14 +6,15 @@ El proyecto propone un asistente conversacional de BanCom que transforma la inte
 
 ## 2.Fuentes de inspiración
 
-### 2.1 Marco conceptual de product-market fit:### identificación del problema, segmentación, evaluación competitiva y métricas de validación.
+### 2.1 Marco conceptual de product-market fit:
+Identificación del problema, segmentación, evaluación competitiva y métricas de validación.
 
-### Componente	Definición ejecutiva	Hallazgo clave
-Identificación del problema	El problema central es la fricción en el onboarding de créditos: solicitudes incompletas, validaciones manuales, observaciones reiteradas y poca trazabilidad del expediente.	La intención del cliente no siempre se convierte en una solicitud lista para evaluación, lo que genera abandono, demoras y reprocesos.
-Causas del problema	El proceso actual depende de captura fragmentada de datos, revisión manual de documentos y escasa guía contextual para el cliente.	El usuario no siempre entiende qué debe completar, qué falta o cuál es el siguiente paso.
-Consecuencias del problema	La fricción afecta tanto al cliente como al banco.	Para el cliente: frustración, menor confianza y abandono. Para el banco: más costo operativo, más tiempo de ciclo y menor conversión digital.
-Evaluación competitiva	Los competidores relevantes son bancos con experiencia digital madura en originación: BCP, BBVA e Interbank.	La competencia ya cubre velocidad y autoservicio, pero aún existe espacio para una experiencia más guiada, explicativa y trazable.
-Diferenciación esperada	El agente BanCom combina conversación guiada, checklist documental, observaciones accionables, timeline y derivación estructurada.	No compite solo como formulario digital, sino como experiencia asistida de principio a fin.
+### Identificación del problema	
+- El problema central es la fricción en el onboarding de créditos: solicitudes incompletas, validaciones manuales, observaciones reiteradas y poca trazabilidad del expediente.	La intención del cliente no siempre se convierte en una solicitud lista para evaluación, lo que genera abandono, demoras y reprocesos.
+- **Causas del problema:** El proceso actual depende de captura fragmentada de datos, revisión manual de documentos y escasa guía contextual para el cliente.	El usuario no siempre entiende qué debe completar, qué falta o cuál es el siguiente paso.
+- **Consecuencias del problema:** La fricción afecta tanto al cliente como al banco.	Para el cliente: frustración, menor confianza y abandono. Para el banco: más costo operativo, más tiempo de ciclo y menor conversión digital.
+- **Evaluación competitiva:** Los competidores relevantes son bancos con experiencia digital madura en originación: BCP, BBVA e Interbank.	La competencia ya cubre velocidad y autoservicio, pero aún existe espacio para una experiencia más guiada, explicativa y trazable.
+- **Diferenciación esperada:**	El agente BanCom combina conversación guiada, checklist documental, observaciones accionables, timeline y derivación estructurada.	No compite solo como formulario digital, sino como experiencia asistida de principio a fin.
 
 ### 2.2 Formular el problema principal: que enfrenta el usuario o empresa objetivo, explicando el rol del agente, limites, y tipo de respuestas del agente.
 
