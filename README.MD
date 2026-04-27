@@ -1,10 +1,10 @@
 # Proyecto:  Agente conversacional de BanCom para Solicitud de Préstamos
 
 
-## 1.Descripción breve del producto: 
+## 1. Descripción breve del producto: 
 El proyecto propone un asistente conversacional de BanCom que transforma la intención de solicitar un préstamo en un expediente digital completo, trazable y listo para evaluación utilizando WhatsApp como interfase del cliente. La inspiración nace de un problema operativo real del onboarding crediticio en banca peruana: solicitudes incompletas, validaciones manuales y dispersas, falta de guía al cliente y reprocesos internos. El enfoque de product-market fit se sustenta en resolver un dolor relevante del mercado, observar carencias de la competencia y diseñar una experiencia simple, útil y medible
 
-## 2.Fuentes de inspiración
+## 2. Fuentes de inspiración
 
 ### 2.1 Marco conceptual de product-market fit:
 
