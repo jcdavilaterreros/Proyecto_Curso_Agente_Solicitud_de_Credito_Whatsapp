@@ -1,23 +1,23 @@
-Proyecto:  Agente conversacional de BanCom para Solicitud de Préstamos
+# Proyecto:  Agente conversacional de BanCom para Solicitud de Préstamos
 
 
-1.Descripción breve del producto: 
+## 1.Descripción breve del producto: 
 El proyecto propone un asistente conversacional de BanCom que transforma la intención de solicitar un préstamo en un expediente digital completo, trazable y listo para evaluación utilizando WhatsApp como interfase del cliente. La inspiración nace de un problema operativo real del onboarding crediticio en banca peruana: solicitudes incompletas, validaciones manuales y dispersas, falta de guía al cliente y reprocesos internos. El enfoque de product-market fit se sustenta en resolver un dolor relevante del mercado, observar carencias de la competencia y diseñar una experiencia simple, útil y medible
 
-2.Fuentes de inspiración
+## 2.Fuentes de inspiración
 
-2.1 Marco conceptual de product-market fit: identificación del problema, segmentación, evaluación competitiva y métricas de validación.
+### 2.1 Marco conceptual de product-market fit: identificación del problema, segmentación, evaluación competitiva y métricas de validación.
 
-Componente	Definición ejecutiva	Hallazgo clave
+### Componente	Definición ejecutiva	Hallazgo clave
 Identificación del problema	El problema central es la fricción en el onboarding de créditos: solicitudes incompletas, validaciones manuales, observaciones reiteradas y poca trazabilidad del expediente.	La intención del cliente no siempre se convierte en una solicitud lista para evaluación, lo que genera abandono, demoras y reprocesos.
 Causas del problema	El proceso actual depende de captura fragmentada de datos, revisión manual de documentos y escasa guía contextual para el cliente.	El usuario no siempre entiende qué debe completar, qué falta o cuál es el siguiente paso.
 Consecuencias del problema	La fricción afecta tanto al cliente como al banco.	Para el cliente: frustración, menor confianza y abandono. Para el banco: más costo operativo, más tiempo de ciclo y menor conversión digital.
 Evaluación competitiva	Los competidores relevantes son bancos con experiencia digital madura en originación: BCP, BBVA e Interbank.	La competencia ya cubre velocidad y autoservicio, pero aún existe espacio para una experiencia más guiada, explicativa y trazable.
 Diferenciación esperada	El agente BanCom combina conversación guiada, checklist documental, observaciones accionables, timeline y derivación estructurada.	No compite solo como formulario digital, sino como experiencia asistida de principio a fin.
 
-2.2 Formular el problema principal: que enfrenta el usuario o empresa objetivo, explicando el rol del agente, limites, y tipo de respuestas del agente.
+### 2.2 Formular el problema principal: que enfrenta el usuario o empresa objetivo, explicando el rol del agente, limites, y tipo de respuestas del agente.
 
-Problema
+### Problema
 El agente resuelve la fricción operativa en el onboarding de créditos: solicitudes que se retrasan, se abandonan o requieren reprocesos porque la documentación está incompleta, las validaciones son manuales y dispersas, y no existe una guía clara para el cliente ni para los ejecutivos. El objetivo es convertir la intención de solicitar un préstamo en un expediente listo para evaluación/decisión, con mínimo error y máxima trazabilidad.
 
 Rol del agente
