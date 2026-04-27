@@ -53,14 +53,14 @@ El agente entrega guía paso a paso, listas de requisitos y documentos personali
 
 ## 3. Problema principal y oportunidad de mercado
 
-** Problema principal:** las solicitudes de préstamo se quedan a medio camino entre la intención del cliente y un expediente evaluable; esto genera abandono, reproceso y demoras.
-** Causas raíz:** captura de datos fragmentada, múltiples validaciones manuales, documentos observados sin instrucciones claras, poca visibilidad del estado de la solicitud y alta dependencia del ejecutivo para tareas repetitivas.
+**Problema principal:** las solicitudes de préstamo se quedan a medio camino entre la intención del cliente y un expediente evaluable; esto genera abandono, reproceso y demoras.
+**Causas raíz:** captura de datos fragmentada, múltiples validaciones manuales, documentos observados sin instrucciones claras, poca visibilidad del estado de la solicitud y alta dependencia del ejecutivo para tareas repetitivas.
 **Consecuencias para el cliente:** frustración, percepción de complejidad, menor confianza y mayor probabilidad de abandonar el trámite.
 **Consecuencias para el banco:** mayores costos operativos, ciclos de originación más largos, productividad comercial reducida, riesgos por errores manuales y menor conversión digital.
 **Oportunidad de mercado: en Perú el crédito viene recuperándose y los créditos de consumo lideraron el crecimiento a setiembre de 2025; además, los canales y pagos digitales elevan la expectativa por experiencias bancarias móviles, rápidas y seguras.
 **Público objetivo:** El segmento principal está dirigido a personas naturales y pequeños negocios interesados en solicitar un préstamo con BanCom.
 **Contexto de uso:** Usuarios que ingresan desde WhatsApp  y esperan una atención ágil, guiada y entendible, sin fricción y sin sentir que están llenando un formulario tradicional.
-### Tono y personalidad
+**Tono y personalidad**
 	• Profesional
 	• Cálido
 	• Claro
