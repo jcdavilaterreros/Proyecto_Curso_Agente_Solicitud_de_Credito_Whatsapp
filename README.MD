@@ -67,7 +67,7 @@ El agente entrega guía paso a paso, listas de requisitos y documentos personali
 	- Confiable
 	- Orientado a la acción
 
-### Propuesta de valor: Transforma una solicitud de crédito en una experiencia conversacional simple, guiada y humana, reduciendo fricción, ordenando la captura de datos y documentos, y dando al usuario visibilidad del avance de su solicitud en todo momento.
+### **Propuesta de valor:** Transforma una solicitud de crédito en una experiencia conversacional simple, guiada y humana, reduciendo fricción, ordenando la captura de datos y documentos, y dando al usuario visibilidad del avance de su solicitud en todo momento.
 
 ### Ventajas diferenciales:
   - Conversación natural y no tipo interrogatorio.
@@ -77,9 +77,9 @@ El agente entrega guía paso a paso, listas de requisitos y documentos personali
   - Experiencia coherente con una atención bancaria formal pero cercana.
   - Permite mantener continuidad con acciones persistentes como ver estado, subir documentos o hablar con un ejecutivo.
 
-### Dolor crítico: expedientes incompletos y sin trazabilidad.
-### Trigger de adopción: solicitud rápida, guiada y sin fricción.
-### Resultado esperado: más conversión y menor reproceso.
+### **Dolor crítico:** expedientes incompletos y sin trazabilidad.
+### **Trigger de adopción:** solicitud rápida, guiada y sin fricción.
+### **Resultado esperado:** más conversión y menor reproceso.
 
 ## 4. Propósito principal del proyecto 
 
@@ -95,11 +95,11 @@ Está orientado a usuarios que desean iniciar o completar su solicitud de crédi
 
 ## 5. Insights clave y oportunidades de diferenciación
 
-• El mercado peruano ya educó al cliente a esperar experiencias digitales, móviles y rápidas; la oportunidad no está solo en digitalizar, sino en digitalizar mejor los casos imperfectos: clientes con dudas, documentos observados o información parcial.
-•Los grandes bancos compiten con escala, marca y velocidad. BanCom puede diferenciarse con un onboarding explicativo, trazable y asistido, donde el agente no solo captura datos, sino que reduce incertidumbre.
-• El agente propuesto aporta una combinación poco visible en ofertas tradicionales: conversación guiada, checklist documental con estados, observaciones concretas, timeline de avance, número de solicitud y salida dual para cliente y analista.
-• Para PYMES y convenios, la capacidad de operar con información parcial y derivar inteligentemente a humano es una ventaja relevante frente a experiencias excesivamente rígidas.
-• El uso de IA agrega valor donde más duele: completitud del expediente, calidad del dato, explicación del siguiente paso y productividad del ejecutivo.
+- El mercado peruano ya educó al cliente a esperar experiencias digitales, móviles y rápidas; la oportunidad no está solo en digitalizar, sino en digitalizar mejor los casos imperfectos: clientes con dudas, documentos observados o información parcial.
+- Los grandes bancos compiten con escala, marca y velocidad. BanCom puede diferenciarse con un onboarding explicativo, trazable y asistido, donde el agente no solo captura datos, sino que reduce incertidumbre.
+- El agente propuesto aporta una combinación poco visible en ofertas tradicionales: conversación guiada, checklist documental con estados, observaciones concretas, timeline de avance, número de solicitud y salida dual para cliente y analista.
+- Para PYMES y convenios, la capacidad de operar con información parcial y derivar inteligentemente a humano es una ventaja relevante frente a experiencias excesivamente rígidas.
+- El uso de IA agrega valor donde más duele: completitud del expediente, calidad del dato, explicación del siguiente paso y productividad del ejecutivo.
 
 **¿Qué podría aportar este agente de IA que otros no ofrecen?** 
 - Acompañamiento paso a paso orientado a reducir abandono y no solo a vender un crédito.
